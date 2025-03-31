@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "rules": [
+    {
+	"source_ip_cidr": ["192.168.9.6", "192.168.9.250"],
+	 "domain_suffix": [
+//tmp
+"h.land","bulianglin.com","winudf.com",
+
+"git.io","githack.com","github.blog","github.com","github.io","githubassets.com","githubusercontent.com", 
+
+"docker.com","hysteria.network","openvpn.net","pdf-xchange.com",
+"apkpure.com","apkmirror.com","blogger.com","cloudcone.com",
+"nostr.com","freewechat.com","greatfire.org","resilio.com","matrix.org",
+"rutracker.net","rutracker.org","www.ftchinese.com","v2ex.com",
+"openai.com","brave.com","marathonbet.com","wallzhihu.com","v2fly.org",
+"proton.me","fast.com","bootstrapcdn.com","pincong.rocks",
+"wikipedia.org","wikimedia.org","duckduckgo.com","bing.com"]
+    }
+  ]
+}
