@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "rules": [
+    {
+	"source_ip_cidr": ["192.168.9.6", "192.168.9.250"],
+    },
+    {
+#	"source_ip_cidr": ["192.168.9.6", "192.168.9.250"],
+	 "domain_suffix": [
+//tmp
+"gitbook.io",
+"lib-76t72dh5woczzy3tdi6qob3p.1lib.ph",
+"z-library.sk","z-lib.id","1lib.ph",
+"grok.com",
+"h.land","bulianglin.com","winudf.com","sagernet.org",
+
+"odysee.com","odycdn.com","ggpht.com","maxcdn.com","proton.me",
+"reddit.com","redditstatic.com","redditmedia.com","redd.it","rlcdn.com",
+"docker.com","hysteria.network","openvpn.net","pdf-xchange.com",
+"apkpure.com","apkmirror.com","blogger.com","cloudcone.com",
+"nostr.com","freewechat.com","greatfire.org","resilio.com","matrix.org",
+"rutracker.net","rutracker.org","www.ftchinese.com","v2ex.com",
+"openai.com","brave.com","marathonbet.com","wallzhihu.com","v2fly.org",
+"proton.me","fast.com","bootstrapcdn.com","pincong.rocks",
+"wikipedia.org","wikimedia.org","duckduckgo.com","bing.com"]
+    }
+  ]
+}
+
